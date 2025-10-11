@@ -173,7 +173,7 @@ const CONFIG = {
 					link: 'https://www.roblox.com/games/13621938427/',
 				},
 				{
-					name: 'Catalog Avatar Creator',
+					name: 'Catalog Avatar',
 					link: 'https://www.roblox.com/games/7041939546/',
 				},
 			],
