@@ -139,15 +139,15 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
+					name: 'Inspiração',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Classic',
+					name: 'Clássica',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Oldies',
+					name: 'Pop',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
@@ -157,24 +157,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'gamepad-2',
 			id: '2',
 			links: [
 				{
-					name: 'LinkedIn',
-					link: 'https://www.linkedin.com',
+					name: 'Pilgrammed',
+					link: 'https://www.roblox.com/games/6735572261/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Volleyball Legends',
+					link: 'https://www.roblox.com/games/73956553001240/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Untitled Boxing Game',
+					link: 'https://www.roblox.com/games/13621938427/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Catalog Avatar Creator',
+					link: 'https://www.roblox.com/games/7041939546/',
 				},
 			],
 		},
