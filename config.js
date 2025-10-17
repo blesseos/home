@@ -169,12 +169,12 @@ const CONFIG = {
 					link: 'https://www.roblox.com/games/73956553001240/',
 				},
 				{
-					name: 'Untitled Boxing Game',
-					link: 'https://www.roblox.com/games/13621938427/',
+					name: 'Voxlblade',
+					link: 'https://www.roblox.com/games/8651781069/',
 				},
 				{
-					name: 'Catalog Avatar',
-					link: 'https://www.roblox.com/games/7041939546/',
+					name: 'Untitled Boxing Game',
+					link: 'https://www.roblox.com/games/13621938427/',
 				},
 			],
 		},
