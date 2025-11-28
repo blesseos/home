@@ -36,7 +36,7 @@ const CONFIG = {
 	defaultLongitude: '-49.527',
 
 	// Autochange
-	autoChangeTheme: false,
+	autoChangeTheme: true,
 
 	// Autochange by OS
 	changeThemeByOS: false,
