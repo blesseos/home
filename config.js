@@ -139,11 +139,11 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspiração',
+					name: 'Main',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Clássica',
+					name: 'Rap',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
